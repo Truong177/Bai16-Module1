@@ -1,5 +1,5 @@
 class Temperature {
-    constructor(c,f,kenvin) {
+    constructor(c) {
         this.c = c;
     }
     getC(){
